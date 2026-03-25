@@ -1,0 +1,4 @@
+interface:
+  display_name: "QQ OneBot OpenClaw Recovery"
+  short_description: "Recover NapCatQQ to OpenClaw QQ routing."
+  default_prompt: "Use $qq-onebot-openclaw-recovery to restore and verify the fixed NapCatQQ through OneBot into OpenClaw route on this machine."
